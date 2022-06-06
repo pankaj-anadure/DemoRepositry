@@ -2,9 +2,9 @@ public class Abc
 {
 	public static void main(String args[])
 	{
-		for(int i=1; i<=10; i++)
+		if(true)
 		{
-			System.out.println("Just for Demo");
+			System.out.println("Simply some changes");
 		}
 	}
 }
